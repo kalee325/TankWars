@@ -7,18 +7,18 @@ P.S. To launch the jar file, you need to put the Resource file and the jar file 
 Tank Control:
 
 Player 1
-    UP: Forward
-    DOWN: Backward
-    LEFT: Rotate Left
-    RIGHT: Rotate Right
-    ENTER: Shoot Bullet
+    - UP: Forward
+    - DOWN: Backward
+    - LEFT: Rotate Left
+    - RIGHT: Rotate Right
+    - ENTER: Shoot Bullet
     
 Player 2
-    W: Forward
-    S: Backward
-    A: Rotate Left
-    D: Rotate Right
-    SPACE: Shoot Bullet
+    - W: Forward
+    - S: Backward
+    - A: Rotate Left
+    - D: Rotate Right
+    - SPACE: Shoot Bullet
 
 Instruction:
 - Each tank has 3 lives and 200 health points.
