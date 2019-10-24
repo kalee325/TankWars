@@ -2,7 +2,7 @@
 
 
 This project is a two-player tank game. Players are able to control their tanks to fight
-against each other on the arena for victory. Each tank has its own screen on the same
+against each other in the arena for victory. Each tank has its own screen on the same
 window, and there is a mini-map on the center. There are breakable and unbreakable
 walls on the map as defensive, and there are also special items generated on the map for
 players to pick up, rising the tension of the game.
