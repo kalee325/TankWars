@@ -2,8 +2,12 @@
 
 Main Class: Game.TRE
 
+
 Jar File: TankGame.jar
+
+
 P.S. To launch the jar file, you need to put the Resource file and the jar file in the same directory; Otherwise, it will not launch.
+
 
 Tank Control:
 
